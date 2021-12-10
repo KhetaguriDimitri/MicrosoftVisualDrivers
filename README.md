@@ -18,6 +18,8 @@ All Runtime Visual Studio Libraries from Microsoft
 
 Automatic installation
 
+-----------------------
+
 https://www.virustotal.com/gui/file/0551a61c85b718e1fa015b0c3e3f4c4eea0637055536c00e7969286b4fa663e0 - vcredist2005_x64.exe
 
 https://www.virustotal.com/gui/file/4ee4da0fe62d5fa1b5e80c6e6d88a4a2f8b3b140c35da51053d0d7b72a381d29 - vcredist2005_x86.exe
